@@ -1,0 +1,1 @@
+print("""My Name is Hemil\nMy Age is 21\nMy DOB is 25th August 2003\nAddress : Satya Sai HospitalEoad, Nana Mauva""")
