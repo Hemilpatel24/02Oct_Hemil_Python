@@ -1,0 +1,5 @@
+How memory is managed in Python?
+->There are two types of memories in python.
+    1)static memory: Memory which is assigned from starting of the code.
+    2)dynamic memory: Memory which is assigned at the time of running the code, 
+    which is provided by user.
