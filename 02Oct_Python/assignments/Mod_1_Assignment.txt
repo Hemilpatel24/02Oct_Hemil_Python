@@ -1,0 +1,15 @@
+1)What is Software?
+-> Software are the set of instructions that tells the system what to do and what not to.
+-----------------------------------------------------------------------------------------------
+2)What are the types of Applications?
+-> No code application
+Database application
+web application
+mobile application
+desktop application
+-----------------------------------------------------------------------------------------------
+3)What is programing?
+->It is a process of writing codes that tells the software/instruct what to do.
+-----------------------------------------------------------------------------------------------
+4)What is Python?
+->Python is a programming language used worldwide for programming. It has easy to understand syntax which helps programmers and data scientists to adapt to the python environment easily. Python has various libraries which helps in getting different data.  
