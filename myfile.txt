@@ -1,0 +1,3 @@
+ID:& C:/Users/Lenovo/AppData/Local/Programs/Python/Python312/python.exe d:/python_practice/02Oct_Python/assignments/Module-3/read_write_file.py
+NAME:101
+CITY:hemil
