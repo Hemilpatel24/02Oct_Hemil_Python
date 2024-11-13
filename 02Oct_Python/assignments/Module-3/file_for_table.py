@@ -1,4 +1,4 @@
-file = open("Table_File.txt", 'x')
+file = open("Table_File.txt", 'w')
 n = int(input("How many tables you want:"))
 
 for i in range(n):
