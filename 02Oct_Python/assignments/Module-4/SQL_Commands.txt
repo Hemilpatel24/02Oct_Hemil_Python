@@ -1,0 +1,7 @@
+SQL COMMANDS
+======================================
+1. DDL: create, alter, drop, truncate
+2. DML/CRUD: insert, update, delete
+3. DQL: select
+4. DCL: grant, revoke
+5. TCL: commit, rollback, savepoint
