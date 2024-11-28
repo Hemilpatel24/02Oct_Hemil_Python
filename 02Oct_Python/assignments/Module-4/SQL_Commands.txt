@@ -5,3 +5,12 @@ SQL COMMANDS
 3. DQL: select
 4. DCL: grant, revoke
 5. TCL: commit, rollback, savepoint
+=======================================
+SQL CONSTRAINTS - VALIDATION
+=======================================
+NN: not null
+PK: Primary key
+AI: Auto increament
+UK: Unique key
+Default: Set the default value
+Check: for ex(age>18)
